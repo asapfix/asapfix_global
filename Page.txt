@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="ASAPfix Global provides fast, affordable, and reliable washing machine repair services across Lagos. Book a same-day service now!" />
+  <title>ASAPfix Global | Washing Machine Repair in Lagos</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; background: #f4f4f4; }
+    header { background: #0b75c9; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; max-width: 800px; margin: auto; background: white; margin-top: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    h1, h2 { color: #0b75c9; }
+    .cta { background: #0b75c9; color: white; text-align: center; padding: 15px; margin-top: 30px; border-radius: 6px; text-decoration: none; display: inline-block; }
+    footer { text-align: center; font-size: 0.9em; padding: 15px; color: #777; }
+    ul { padding-left: 20px; }
+    form { display: flex; flex-direction: column; gap: 10px; margin-top: 20px; }
+    input, textarea { padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-size: 1em; }
+    button { background-color: #0b75c9; color: white; border: none; padding: 10px; border-radius: 4px; font-size: 1em; cursor: pointer; }
+    button:hover { background-color: #095aa6; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ASAPfix Global</h1>
+    <p>Lagos' #1 Trusted Washing Machine Repair Experts</p>
+  </header>
+
+  <section>
+    <h2>Fast & Reliable Washing Machine Repairs in Lagos</h2>
+    <p>Is your washing machine leaking, refusing to spin, or making unusual noise? Don’t worry — ASAPfix Global is here to help. We offer expert repairs for all brands and models, right at your doorstep.</p>
+
+    <h2>Why Choose Us?</h2>
+    <ul>
+      <li>Same-day service available across Lagos</li>
+      <li>Experienced & certified technicians</li>
+      <li>Affordable pricing with no hidden charges</li>
+      <li>Genuine spare parts used</li>
+      <li>Friendly customer support</li>
+    </ul>
+
+    <h2>Our Services</h2>
+    <ul>
+      <li>Washing machine not spinning</li>
+      <li>Water drainage issues</li>
+      <li>Door or drum problems</li>
+      <li>Electrical faults</li>
+      <li>Preventive maintenance</li>
+    </ul>
+
+    <a href="https://wa.me/2348130388195" class="cta">Book a Repair on WhatsApp</a>
+  </section>
+
+  <section>
+    <h2>Service Areas</h2>
+    <p>We proudly serve all major areas in Lagos including:</p>
+    <ul>
+      <li>Ikeja</li>
+      <li>Surulere</li>
+      <li>Lekki</li>
+      <li>Ajah</li>
+      <li>Yaba</li>
+      <li>Victoria Island</li>
+      <li>Festac</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <form action="https://formspree.io/f/yourformid" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="tel" name="phone" placeholder="Your Phone Number" required />
+      <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+    <p style="font-size: 0.9em; color: gray; margin-top: 10px;">We will never share your contact details. For urgent issues, please WhatsApp us directly.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ASAPfix Global. All rights reserved.</p>
+  </footer>
+</body>
+</html>
